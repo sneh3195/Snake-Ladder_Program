@@ -49,7 +49,7 @@ public class SnakeandLadder5 {
 				}
 				break;
 			case 2: 
-				System.out.println(" snake bites");
+				System.out.println("oops snake bites");
 				if (newturn != 0) 
 					position1 -= dice;
 					
