@@ -40,7 +40,7 @@ public class SnakeandLadder4 {
 			roll++;
 		}
 		
-		System.out.println(" Congratulations you put " + roll + " rolls you win the game!!");
+		System.out.println(" Congratulations you put " + roll + "  you win the game!!");
 	}
 
 }
